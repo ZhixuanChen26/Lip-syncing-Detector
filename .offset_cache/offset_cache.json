@@ -1,0 +1,26 @@
+{
+  "88b37867e9f6478223fac35976a25c10_55e0640f2d48602753ce54384c6b50b3_chroma": {
+    "offset": 1315840,
+    "confidence": 0.6967799199275072,
+    "method": "chroma",
+    "timestamp": 1745368702.343345,
+    "live_path": "/Users/jwl/Desktop/Test data samples/real/Data2/Live2.wav",
+    "cd_path": "/Users/jwl/Desktop/Test data samples/real/Data2/CD2.mp3"
+  },
+  "29a212a03e580f6affa1cfaddb5b543c_997c39196b97c18eeb6df8b9aa01e3a8_chroma": {
+    "offset": 900608,
+    "confidence": 0.7222871121243489,
+    "method": "chroma",
+    "timestamp": 1745368782.9509928,
+    "live_path": "/Users/jwl/Desktop/Test data samples/real/Data3/Live3.wav",
+    "cd_path": "/Users/jwl/Desktop/Test data samples/real/Data3/CD3.mp3"
+  },
+  "418588cbd159c4e589e34c38585004b6_ff14804cb7298a35dc4d77c2c8528363_chroma": {
+    "offset": 711168,
+    "confidence": 0.6739124044403162,
+    "method": "chroma",
+    "timestamp": 1745368831.607928,
+    "live_path": "/Users/jwl/Desktop/Test data samples/real/Data4/Live4.wav",
+    "cd_path": "/Users/jwl/Desktop/Test data samples/real/Data4/CD4.mp3"
+  }
+}
